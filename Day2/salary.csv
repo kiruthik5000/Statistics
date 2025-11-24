@@ -1,0 +1,16 @@
+EmployeeID,JobRole,Experience (Years),City,Salary (INR)
+101,Software Engineer,2,Bangalore,520000
+102,Data Analyst,3,Hyderabad,480000
+103,DevOps Engineer,5,Pune,850000
+104,Data Scientist,4,Bangalore,1050000
+105,Backend Developer,6,Chennai,920000
+106,Frontend Developer,3,Noida,600000
+107,Cloud Architect,10,Bangalore,1800000
+108,System Admin,7,Pune,750000
+109,AI Engineer,4,Hyderabad,1300000
+110,QA Engineer,2,Chennai,450000
+111,Mobile App Developer,5,Bangalore,950000
+112,IT Support,1,Noida,320000
+113,Cybersecurity Analyst,6,Pune,1100000
+114,Machine Learning Engineer,4,Bangalore,1250000
+115,Full Stack Developer,7,Hyderabad,1400000
