@@ -1,24 +1,41 @@
 import pandas as pd
-import os, sys
 import numpy as np
 from scipy.stats import chi2_contingency
+import os, sys
 
-def load(file):
-    return pd.read_csv(os.path.join(sys.path[0], file))
-    
-df = load(input().strip())
+filename = input().strip()
 
-print("Null Hypothesis (H0): First-Time Visits are equally distributed across days of the month.")
-print("Alternative Hypothesis (H1): First-Time Visits are not equally distributed across days of the month.\n")
+try:
+    df = pd.read_csv(os.path.join(sys.path[0], filename))
 
-print("Contingency Table (Page Loads vs Day of the Week):\n")
+    df = df[['Day', 'Page.Loads']].dropna()
 
-bins = [0, 2500, 3500, float('inf')]
-labels = ['Low', 'Medium', 'High']
+    df['Page.Loads'] = pd.to_numeric(df['Page.Loads'], errors='coerce')
+    df = df.dropna()
 
-df['Page_Loads_Bin'] = pd.cut(df['Page.Loads'], bins=bins, labels=labels)
+    bins = pd.qcut(df['Page.Loads'], q=3, labels=['Low', 'Medium', 'High'])
+    df['Page_Loads_Bin'] = bins
 
-contigency = pd.crosstab(df['Day'], df['Page_Loads_Bin'])
+    contingency_table = pd.crosstab(df['Day'], df['Page_Loads_Bin'])
 
+    chi2, p_value, dof, expected = chi2_contingency(contingency_table)
 
-chi2, p, dof, expected = chi2_contingency(contigency)
+    print("Null Hypothesis (H0): Page Loads are independent of the Day of the Week.")
+    print("Alternative Hypothesis (H1): Page Loads depend on the Day of the Week.\n")
+
+    print("Contingency Table (Page Loads vs Day of the Week):\n")
+    print(contingency_table)
+    print()
+
+    print(f"Chi-Square Statistic: {chi2:.2f}")
+    print(f"p-value: {p_value:.4f}\n")
+
+    if p_value < 0.05:
+        print("Conclusion: Reject H0. Page Loads depend on the Day of the Week.")
+    else:
+        print("Conclusion: Fail to Reject H0. Page Loads are independent of the Day of the Week.")
+
+except FileNotFoundError:
+    print("Error: File not found. Please check the filename.")
+except Exception as e:
+    print("An error occurred:", e)
