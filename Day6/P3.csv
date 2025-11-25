@@ -1,0 +1,501 @@
+Date,Day,Month,Year,Customer_Age,Age_Group,Customer_Gender,Country,State,Product_Category,Sub_Category,Product,Order_Quantity,Unit_Cost,Unit_Price,Profit,Cost,Revenue
+26-11-2013,26,November,2013,19,Youth (<25),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+26-11-2015,26,November,2015,19,Youth (<25),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+02-08-2013,2,August,2013,29,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+02-08-2015,2,August,2015,29,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,517,315,832
+02-09-2013,2,September,2013,29,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+02-09-2015,2,September,2015,29,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+22-01-2014,22,January,2014,29,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+22-01-2016,22,January,2016,29,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+17-05-2014,17,May,2014,29,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+17-05-2016,17,May,2016,29,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+25-08-2013,25,August,2013,49,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,221,135,356
+25-08-2015,25,August,2015,49,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+26-12-2013,26,December,2013,49,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+26-12-2015,26,December,2015,49,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+02-01-2014,2,January,2014,48,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,295,180,475
+02-01-2016,2,January,2016,48,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,,45,120,295,180,475
+13-03-2014,13,March,2014,48,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,,45,120,1476,900,2376
+13-03-2016,13,March,2016,48,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,,45,120,1624,990,2614
+23-05-2014,23,May,2014,47,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,24,45,120,1771,1080,2851
+23-05-2016,23,May,2016,47,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45,120,,1035,2732
+11-11-2013,11,November,2013,34,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,25,45,120,1845,1125,2970
+11-11-2015,11,November,2015,34,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45,120,1697,1035,2732
+27-08-2013,27,August,2013,57,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+27-08-2015,27,August,2015,57,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+17-11-2013,17,November,2013,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,886,540,1426
+17-11-2015,17,November,2015,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,14,45,120,1033,630,1663
+26-11-2013,26,November,2013,26,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,517,315,832
+26-11-2015,26,November,2015,26,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,,360,950
+03-08-2013,3,August,2013,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+03-08-2015,3,August,2015,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+19-06-2014,19,June,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,738,450,1188
+19-06-2016,19,June,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,886,540,1426
+29-09-2013,29,September,2013,33,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+29-09-2015,29,September,2015,33,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,221,135,356
+16-05-2014,16,May,2014,33,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,15,45,120,1107,675,1782
+16-05-2016,16,May,2016,33,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,15,45,120,1107,675,1782
+18-08-2013,18,August,2013,25,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+18-08-2015,18,August,2015,25,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,221,135,356
+07-09-2013,7,September,2013,21,Youth (<25),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+07-09-2015,7,September,2015,21,Youth (<25),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+11-06-2014,11,June,2014,37,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,19,45,120,1402,855,2257
+11-06-2016,11,June,2016,37,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,17,45,120,1255,765,2020
+07-01-2014,7,January,2014,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,29,45,120,2140,1305,3445
+07-01-2016,7,January,2016,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,30,45,120,2214,1350,3564
+16-01-2014,16,January,2014,41,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,738,450,1188
+16-01-2016,16,January,2016,41,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,517,315,832
+18-02-2014,18,February,2014,41,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+18-02-2016,18,February,2016,41,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,,45,120,74,45,119
+17-12-2013,17,December,2013,24,Youth (<25),F,Canada,Alberta,Accessories,Bike Racks,Hitch Rack - 4-Bike,,45,120,300,180,480
+17-12-2015,17,December,2015,24,Youth (<25),F,Canada,Alberta,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,450,270,720
+26-08-2013,26,August,2013,27,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+26-08-2015,26,August,2015,27,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+03-08-2013,3,August,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,,738,450,1188
+03-08-2015,3,August,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,,886,540,1426
+20-01-2014,20,January,2014,51,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,,443,270,713
+20-01-2016,20,January,2016,51,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+09-09-2013,9,September,2013,47,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,664,405,1069
+09-09-2015,9,September,2015,47,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,11,45,120,812,495,1307
+28-09-2013,28,September,2013,45,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,,950
+28-09-2015,28,September,2015,45,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,,594
+02-09-2013,2,September,2013,33,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+02-09-2015,2,September,2015,33,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+21-09-2013,21,September,2013,33,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+21-09-2015,21,September,2015,33,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+14-05-2014,14,May,2014,42,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,295,180,475
+14-05-2016,14,May,2016,42,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+06-09-2013,6,September,2013,45,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,11,45,120,812,495,1307
+06-09-2015,6,September,2015,45,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+11-06-2014,11,June,2014,45,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,26,45,120,1919,1170,3089
+11-06-2016,11,June,2016,45,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,27,45,120,1993,1215,3208
+24-11-2013,24,November,2013,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+24-11-2015,24,November,2015,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+14-02-2014,14,February,2014,32,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+14-02-2016,14,February,2016,32,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+01-02-2014,1,February,2014,34,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+01-02-2016,1,February,2016,34,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+18-07-2014,18,July,2014,40,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+18-07-2016,18,July,2016,40,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,738,450,1188
+27-04-2014,27,April,2014,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+27-04-2016,27,April,2016,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,517,315,832
+20-04-2014,20,April,2014,39,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+20-04-2016,20,April,2016,39,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+10-03-2014,10,March,2014,43,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+10-03-2016,10,March,2016,43,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+29-12-2013,29,December,2013,17,Youth (<25),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,517,315,832
+29-12-2015,29,December,2015,17,Youth (<25),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+26-06-2014,26,June,2014,61,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1624,990,2614
+26-06-2016,26,June,2016,61,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1624,990,2614
+28-03-2014,28,March,2014,54,Adults (35-64),F,Canada,Alberta,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,525,315,840
+28-03-2016,28,March,2016,54,Adults (35-64),F,Canada,Alberta,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,375,225,600
+02-05-2014,2,May,2014,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,738,450,1188
+02-05-2016,2,May,2016,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,664,405,1069
+13-05-2014,13,May,2014,42,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+13-05-2016,13,May,2016,42,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,664,405,1069
+08-08-2013,8,August,2013,25,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+08-08-2015,8,August,2015,25,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+28-08-2013,28,August,2013,54,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+28-08-2015,28,August,2015,54,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+13-04-2014,13,April,2014,40,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+13-04-2016,13,April,2016,40,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+30-04-2014,30,April,2014,40,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+30-04-2016,30,April,2016,40,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+25-08-2013,25,August,2013,26,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,221,135,356
+25-08-2015,25,August,2015,26,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+12-03-2014,12,March,2014,53,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+12-03-2016,12,March,2016,53,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+11-08-2013,11,August,2013,50,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,492,295,787
+11-08-2015,11,August,2015,50,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,689,413,1102
+12-07-2014,12,July,2014,50,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,886,531,1417
+12-07-2016,12,July,2016,50,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,886,531,1417
+05-09-2013,5,September,2013,47,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+05-09-2015,5,September,2015,47,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,197,118,315
+25-11-2013,25,November,2013,47,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,492,295,787
+25-11-2015,25,November,2015,47,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,492,295,787
+28-04-2014,28,April,2014,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,787,472,1259
+28-04-2016,28,April,2016,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,492,295,787
+08-09-2013,8,September,2013,38,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,590,354,944
+08-09-2015,8,September,2015,38,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,787,472,1259
+19-12-2013,19,December,2013,38,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,984,590,1574
+19-12-2015,19,December,2015,38,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,11,59,159,1083,649,1732
+27-09-2013,27,September,2013,28,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+27-09-2015,27,September,2015,28,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+25-03-2014,25,March,2014,28,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+25-03-2016,25,March,2016,28,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+03-04-2014,3,April,2014,37,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,197,118,315
+03-04-2016,3,April,2016,37,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,197,118,315
+19-10-2013,19,October,2013,26,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,492,295,787
+19-10-2015,19,October,2015,26,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,590,354,944
+15-04-2014,15,April,2014,33,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,197,118,315
+15-04-2016,15,April,2016,33,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+03-06-2014,3,June,2014,41,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,787,472,1259
+03-06-2016,3,June,2016,41,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,984,590,1574
+12-04-2014,12,April,2014,27,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+12-04-2016,12,April,2016,27,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,295,177,472
+13-01-2014,13,January,2014,46,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,689,413,1102
+13-01-2016,13,January,2016,46,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,689,413,1102
+21-11-2013,21,November,2013,30,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,492,295,787
+21-11-2015,21,November,2015,30,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,689,413,1102
+15-09-2013,15,September,2013,24,Youth (<25),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,984,590,1574
+15-09-2015,15,September,2015,24,Youth (<25),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,984,590,1574
+04-05-2014,4,May,2014,40,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,394,236,630
+04-05-2016,4,May,2016,40,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,295,177,472
+14-05-2014,14,May,2014,29,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,590,354,944
+14-05-2016,14,May,2016,29,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,787,472,1259
+27-05-2014,27,May,2014,50,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,689,413,1102
+27-05-2016,27,May,2016,50,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,886,531,1417
+27-02-2014,27,February,2014,56,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+27-02-2016,27,February,2016,56,Adults (35-64),M,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+23-12-2013,23,December,2013,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,197,118,315
+23-12-2015,23,December,2015,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+20-04-2014,20,April,2014,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,27,4,10,159,108,267
+20-04-2014,20,April,2014,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,27,4,10,159,108,267
+20-04-2016,20,April,2016,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,27,4,10,159,108,267
+20-04-2016,20,April,2016,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,24,4,10,142,96,238
+27-06-2014,27,June,2014,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,18,4,10,106,72,178
+27-06-2016,27,June,2016,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,20,4,10,118,80,198
+09-07-2014,9,July,2014,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,23,4,10,136,92,228
+09-07-2014,9,July,2014,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,6,4,10,35,24,59
+09-07-2016,9,July,2016,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,24,4,10,142,96,238
+09-07-2016,9,July,2016,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,3,4,10,18,12,30
+26-07-2014,26,July,2014,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,20,4,10,118,80,198
+26-07-2014,26,July,2014,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,20,4,10,118,80,198
+26-07-2016,26,July,2016,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,20,4,10,118,80,198
+26-07-2016,26,July,2016,65,Seniors (64+),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,18,4,10,106,72,178
+11-08-2013,11,August,2013,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,30,2,5,89,60,149
+11-08-2015,11,August,2015,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,5,86,58,144
+07-09-2013,7,September,2013,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,21,2,5,62,42,104
+07-09-2015,7,September,2015,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,19,2,5,56,38,94
+02-10-2013,2,October,2013,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,16,2,5,47,32,79
+02-10-2013,2,October,2013,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,2,2,5,6,4,10
+02-10-2015,2,October,2015,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,13,2,5,38,26,64
+02-10-2015,2,October,2015,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+29-11-2013,29,November,2013,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,16,2,5,47,32,79
+29-11-2013,29,November,2013,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+29-11-2015,29,November,2015,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,15,2,5,44,30,74
+29-11-2015,29,November,2015,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,3,2,5,9,6,15
+01-05-2014,1,May,2014,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,7,2,5,21,14,35
+01-05-2016,1,May,2016,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,9,2,5,27,18,45
+05-06-2014,5,June,2014,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,18,2,5,53,36,89
+05-06-2014,5,June,2014,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,5,2,5,15,10,25
+05-06-2016,5,June,2016,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,20,2,5,59,40,99
+05-06-2016,5,June,2016,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,5,2,5,15,10,25
+30-06-2014,30,June,2014,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,19,2,5,56,38,94
+30-06-2014,30,June,2014,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,14,2,5,41,28,69
+30-06-2016,30,June,2016,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,21,2,5,62,42,104
+30-06-2016,30,June,2016,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,14,2,5,41,28,69
+02-07-2014,2,July,2014,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,11,2,5,32,22,54
+02-07-2014,2,July,2014,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,22,2,5,65,44,109
+02-07-2016,2,July,2016,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,9,2,5,27,18,45
+02-07-2016,2,July,2016,29,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,21,2,5,62,42,104
+14-10-2013,14,October,2013,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,26,3,9,154,78,232
+14-10-2015,14,October,2015,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,25,3,9,148,75,223
+21-12-2013,21,December,2013,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,18,3,9,106,54,160
+21-12-2015,21,December,2015,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,16,3,9,95,48,143
+03-01-2014,3,January,2014,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,15,3,9,89,45,134
+03-01-2016,3,January,2016,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,16,3,9,95,48,143
+11-01-2014,11,January,2014,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,16,3,9,95,48,143
+11-01-2014,11,January,2014,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,5,3,9,30,15,45
+11-01-2016,11,January,2016,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,15,3,9,89,45,134
+11-01-2016,11,January,2016,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,7,3,9,41,21,62
+16-04-2014,16,April,2014,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,18,3,9,106,54,160
+16-04-2016,16,April,2016,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,16,3,9,95,48,143
+15-05-2014,15,May,2014,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,7,3,9,41,21,62
+15-05-2016,15,May,2016,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,9,3,9,53,27,80
+23-05-2014,23,May,2014,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,17,3,9,100,51,151
+23-05-2014,23,May,2014,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,28,3,9,165,84,249
+23-05-2016,23,May,2016,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,16,3,9,95,48,143
+23-05-2016,23,May,2016,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,28,3,9,165,84,249
+27-06-2014,27,June,2014,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,11,3,9,65,33,98
+27-06-2016,27,June,2016,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,13,3,9,77,39,116
+21-07-2014,21,July,2014,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,18,3,9,106,54,160
+21-07-2014,21,July,2014,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,3,3,9,18,9,27
+21-07-2016,21,July,2016,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,20,3,9,118,60,178
+21-07-2016,21,July,2016,23,Youth (<25),F,Canada,British Columbia,Accessories,Bottles and Cages,Road Bottle Cage,1,3,9,6,3,9
+13-08-2013,13,August,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,5,2,5,15,10,25
+13-08-2013,13,August,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,22,2,5,65,44,109
+13-08-2015,13,August,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,6,2,5,18,12,30
+13-08-2015,13,August,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,23,2,5,68,46,114
+09-09-2013,9,September,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,15,2,5,44,30,74
+09-09-2013,9,September,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,30,2,5,89,60,149
+09-09-2015,9,September,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,16,2,5,47,32,79
+09-09-2015,9,September,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,27,2,5,80,54,134
+19-09-2013,19,September,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,7,2,5,21,14,35
+19-09-2013,19,September,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,23,2,5,68,46,114
+19-09-2015,19,September,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,5,2,5,15,10,25
+19-09-2015,19,September,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,24,2,5,71,48,119
+17-11-2013,17,November,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,10,2,5,30,20,50
+17-11-2013,17,November,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,28,2,5,83,56,139
+17-11-2015,17,November,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,7,2,5,21,14,35
+17-11-2015,17,November,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,26,2,5,77,52,129
+10-12-2013,10,December,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,8,2,5,24,16,40
+10-12-2015,10,December,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,9,2,5,27,18,45
+13-12-2013,13,December,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+13-12-2013,13,December,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,27,2,5,80,54,134
+13-12-2015,13,December,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,22,2,5,65,44,109
+13-12-2015,13,December,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,5,86,58,144
+24-12-2013,24,December,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,3,2,5,9,6,15
+24-12-2013,24,December,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,8,2,5,24,16,40
+24-12-2015,24,December,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+24-12-2015,24,December,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,10,2,5,30,20,50
+28-12-2013,28,December,2013,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,27,2,5,80,54,134
+28-12-2015,28,December,2015,31,Young Adults (25-34),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,24,2,5,71,48,119
+13-09-2013,13,September,2013,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,28,2,5,83,56,139
+13-09-2013,13,September,2013,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+13-09-2015,13,September,2015,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,5,86,58,144
+13-09-2015,13,September,2015,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+17-10-2013,17,October,2013,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,5,86,58,144
+17-10-2015,17,October,2015,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,27,2,5,80,54,134
+11-12-2013,11,December,2013,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+11-12-2013,11,December,2013,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,15,2,5,44,30,74
+11-12-2015,11,December,2015,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,26,2,5,77,52,129
+11-12-2015,11,December,2015,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,12,2,5,35,24,59
+28-06-2014,28,June,2014,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,4,2,5,12,8,20
+28-06-2014,28,June,2014,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,3,2,5,9,6,15
+28-06-2016,28,June,2016,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,3,2,5,9,6,15
+28-06-2016,28,June,2016,44,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,2,2,5,6,4,10
+01-08-2013,1,August,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,5,86,58,144
+01-08-2013,1,August,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,18,2,5,53,36,89
+01-08-2015,1,August,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,28,2,5,83,56,139
+01-08-2015,1,August,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,15,2,5,44,30,74
+18-08-2013,18,August,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,27,2,5,80,54,134
+18-08-2013,18,August,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,12,2,5,35,24,59
+18-08-2015,18,August,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,26,2,5,77,52,129
+18-08-2015,18,August,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,12,2,5,35,24,59
+30-09-2013,30,September,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,18,2,5,53,36,89
+30-09-2015,30,September,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,17,2,5,50,34,84
+02-11-2013,2,November,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,5,86,58,144
+02-11-2013,2,November,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,12,2,5,35,24,59
+02-11-2015,2,November,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,5,86,58,144
+02-11-2015,2,November,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,11,2,5,32,22,54
+19-11-2013,19,November,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,20,2,5,59,40,99
+19-11-2013,19,November,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,26,2,5,77,52,129
+19-11-2015,19,November,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,22,2,5,65,44,109
+19-11-2015,19,November,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,24,2,5,71,48,119
+22-11-2013,22,November,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,22,2,5,65,44,109
+22-11-2013,22,November,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,22,2,5,65,44,109
+22-11-2013,22,November,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,23,2,5,68,46,114
+22-11-2013,22,November,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,22,2,5,65,44,109
+22-11-2015,22,November,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,24,2,5,71,48,119
+22-11-2015,22,November,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,20,2,5,59,40,99
+22-11-2015,22,November,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,20,2,5,59,40,99
+22-11-2015,22,November,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,23,2,5,68,46,114
+12-12-2013,12,December,2013,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,26,2,5,77,52,129
+12-12-2015,12,December,2015,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,23,2,5,68,46,114
+06-01-2014,6,January,2014,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+06-01-2014,6,January,2014,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,9,2,5,27,18,45
+06-01-2016,6,January,2016,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+06-01-2016,6,January,2016,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,8,2,5,24,16,40
+09-01-2014,9,January,2014,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,30,2,5,89,60,149
+09-01-2014,9,January,2014,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+09-01-2016,9,January,2016,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,31,2,5,91,62,153
+09-01-2016,9,January,2016,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+15-03-2014,15,March,2014,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,26,2,5,77,52,129
+15-03-2014,15,March,2014,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,17,2,5,50,34,84
+15-03-2016,15,March,2016,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,26,2,5,77,52,129
+15-03-2016,15,March,2016,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,18,2,5,53,36,89
+01-04-2014,1,April,2014,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,17,2,5,50,34,84
+01-04-2016,1,April,2016,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,18,2,5,53,36,89
+03-04-2014,3,April,2014,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+03-04-2014,3,April,2014,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,20,2,5,59,40,99
+03-04-2016,3,April,2016,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+03-04-2016,3,April,2016,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,22,2,5,65,44,109
+22-06-2014,22,June,2014,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,2,2,5,6,4,10
+22-06-2016,22,June,2016,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+12-07-2014,12,July,2014,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,12,2,5,35,24,59
+12-07-2016,12,July,2016,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,9,2,5,27,18,45
+17-07-2014,17,July,2014,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,4,2,5,12,8,20
+17-07-2016,17,July,2016,31,Young Adults (25-34),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,2,2,5,6,4,10
+11-06-2014,11,June,2014,73,Seniors (64+),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,1,4,10,6,4,10
+11-06-2014,11,June,2014,73,Seniors (64+),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,10,4,10,59,40,99
+11-06-2016,11,June,2016,73,Seniors (64+),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,1,4,10,6,4,10
+11-06-2016,11,June,2016,73,Seniors (64+),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,9,4,10,53,36,89
+24-08-2013,24,August,2013,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,7,4,10,41,28,69
+24-08-2013,24,August,2013,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,5,4,10,30,20,50
+24-08-2013,24,August,2013,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,21,4,10,124,84,208
+24-08-2013,24,August,2013,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,18,4,10,106,72,178
+24-08-2015,24,August,2015,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,7,4,10,41,28,69
+24-08-2015,24,August,2015,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,6,4,10,35,24,59
+24-08-2015,24,August,2015,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,18,4,10,106,72,178
+24-08-2015,24,August,2015,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,17,4,10,100,68,168
+07-10-2013,7,October,2013,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,14,4,10,83,56,139
+07-10-2013,7,October,2013,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,9,4,10,53,36,89
+07-10-2015,7,October,2015,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,16,4,10,94,64,158
+07-10-2015,7,October,2015,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,7,4,10,41,28,69
+10-03-2014,10,March,2014,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,12,4,10,71,48,119
+10-03-2016,10,March,2016,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,11,4,10,65,44,109
+19-04-2014,19,April,2014,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,22,4,10,130,88,218
+19-04-2014,19,April,2014,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,17,4,10,100,68,168
+19-04-2016,19,April,2016,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,19,4,10,112,76,188
+19-04-2016,19,April,2016,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,15,4,10,89,60,149
+25-06-2014,25,June,2014,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,25,4,10,148,100,248
+25-06-2014,25,June,2014,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,2,4,10,12,8,20
+25-06-2016,25,June,2016,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,26,4,10,153,104,257
+25-06-2016,25,June,2016,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,1,4,10,6,4,10
+23-07-2014,23,July,2014,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,20,4,10,118,80,198
+23-07-2014,23,July,2014,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,27,4,10,159,108,267
+23-07-2016,23,July,2016,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,21,4,10,124,84,208
+23-07-2016,23,July,2016,18,Youth (<25),M,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,24,4,10,142,96,238
+02-08-2013,2,August,2013,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,5,86,58,144
+02-08-2015,2,August,2015,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,30,2,5,89,60,149
+21-08-2013,21,August,2013,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+21-08-2013,21,August,2013,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,27,2,5,80,54,134
+21-08-2015,21,August,2015,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+21-08-2015,21,August,2015,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,24,2,5,71,48,119
+25-08-2013,25,August,2013,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,19,2,5,56,38,94
+25-08-2015,25,August,2015,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,19,2,5,56,38,94
+30-12-2013,30,December,2013,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,22,2,5,65,44,109
+30-12-2013,30,December,2013,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+30-12-2015,30,December,2015,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,23,2,5,68,46,114
+30-12-2015,30,December,2015,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,2,2,5,6,4,10
+16-01-2014,16,January,2014,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,14,2,5,41,28,69
+16-01-2014,16,January,2014,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,3,2,5,9,6,15
+16-01-2016,16,January,2016,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,15,2,5,44,30,74
+16-01-2016,16,January,2016,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+05-03-2014,5,March,2014,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,4,2,5,12,8,20
+05-03-2016,5,March,2016,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,3,2,5,9,6,15
+23-03-2014,23,March,2014,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,27,2,5,80,54,134
+23-03-2014,23,March,2014,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,17,2,5,50,34,84
+23-03-2016,23,March,2016,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,27,2,5,80,54,134
+23-03-2016,23,March,2016,52,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,16,2,5,47,32,79
+09-08-2013,9,August,2013,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,12,2,5,35,24,59
+09-08-2013,9,August,2013,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,13,2,5,38,26,64
+09-08-2015,9,August,2015,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,14,2,5,41,28,69
+09-08-2015,9,August,2015,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,13,2,5,38,26,64
+11-12-2013,11,December,2013,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,16,2,5,47,32,79
+11-12-2015,11,December,2015,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,16,2,5,47,32,79
+21-01-2014,21,January,2014,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,24,2,5,71,48,119
+21-01-2014,21,January,2014,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,4,2,5,12,8,20
+21-01-2016,21,January,2016,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+21-01-2016,21,January,2016,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+06-04-2014,6,April,2014,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,6,2,5,18,12,30
+06-04-2014,6,April,2014,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,2,2,5,6,4,10
+06-04-2016,6,April,2016,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,5,2,5,15,10,25
+06-04-2016,6,April,2016,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+13-06-2014,13,June,2014,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,5,2,5,15,10,25
+13-06-2016,13,June,2016,59,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,6,2,5,18,12,30
+10-09-2013,10,September,2013,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,20,4,10,118,80,198
+10-09-2015,10,September,2015,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,21,4,10,124,84,208
+17-10-2013,17,October,2013,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,3,4,10,18,12,30
+17-10-2015,17,October,2015,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,2,4,10,12,8,20
+21-11-2013,21,November,2013,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,17,4,10,100,68,168
+21-11-2013,21,November,2013,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,7,4,10,41,28,69
+21-11-2015,21,November,2015,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,19,4,10,112,76,188
+21-11-2015,21,November,2015,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,6,4,10,35,24,59
+10-12-2013,10,December,2013,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,2,4,10,12,8,20
+10-12-2015,10,December,2015,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,3,4,10,18,12,30
+20-12-2013,20,December,2013,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,1,4,10,6,4,10
+20-12-2015,20,December,2015,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,1,4,10,6,4,10
+13-01-2014,13,January,2014,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,18,4,10,106,72,178
+13-01-2016,13,January,2016,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,19,4,10,112,76,188
+03-02-2014,3,February,2014,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,30,4,10,177,120,297
+03-02-2016,3,February,2016,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,32,4,10,189,128,317
+01-05-2014,1,May,2014,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,30,4,10,177,120,297
+01-05-2014,1,May,2014,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,29,4,10,171,116,287
+01-05-2016,1,May,2016,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,29,4,10,171,116,287
+01-05-2016,1,May,2016,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,29,4,10,171,116,287
+04-05-2014,4,May,2014,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,22,4,10,130,88,218
+04-05-2014,4,May,2014,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,16,4,10,94,64,158
+04-05-2016,4,May,2016,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,21,4,10,124,84,208
+04-05-2016,4,May,2016,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,18,4,10,106,72,178
+31-05-2014,31,May,2014,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,29,4,10,171,116,287
+31-05-2014,31,May,2014,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,8,4,10,47,32,79
+31-05-2016,31,May,2016,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,27,4,10,159,108,267
+31-05-2016,31,May,2016,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,7,4,10,41,28,69
+22-06-2014,22,June,2014,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,16,4,10,94,64,158
+22-06-2016,22,June,2016,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,14,4,10,83,56,139
+18-07-2014,18,July,2014,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,21,4,10,124,84,208
+18-07-2014,18,July,2014,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,30,4,10,177,120,297
+18-07-2016,18,July,2016,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,19,4,10,112,76,188
+18-07-2016,18,July,2016,35,Adults (35-64),F,Canada,British Columbia,Accessories,Bottles and Cages,Mountain Bottle Cage,32,4,10,189,128,317
+03-08-2013,3,August,2013,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+03-08-2013,3,August,2013,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,3,2,5,9,6,15
+03-08-2015,3,August,2015,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,24,2,5,71,48,119
+03-08-2015,3,August,2015,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,5,2,5,15,10,25
+30-08-2013,30,August,2013,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,9,2,5,27,18,45
+30-08-2015,30,August,2015,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,9,2,5,27,18,45
+17-09-2013,17,September,2013,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,5,86,58,144
+17-09-2015,17,September,2015,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,5,86,58,144
+09-10-2013,9,October,2013,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,11,2,5,32,22,54
+09-10-2013,9,October,2013,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,24,2,5,71,48,119
+09-10-2015,9,October,2015,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,8,2,5,24,16,40
+09-10-2015,9,October,2015,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,23,2,5,68,46,114
+02-12-2013,2,December,2013,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+02-12-2013,2,December,2013,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,7,2,5,21,14,35
+02-12-2015,2,December,2015,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,24,2,5,71,48,119
+02-12-2015,2,December,2015,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,7,2,5,21,14,35
+13-01-2014,13,January,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+13-01-2014,13,January,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,5,2,5,15,10,25
+13-01-2016,13,January,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+13-01-2016,13,January,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,4,2,5,12,8,20
+02-02-2014,2,February,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,5,86,58,144
+02-02-2014,2,February,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,28,2,5,83,56,139
+02-02-2016,2,February,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,28,2,5,83,56,139
+02-02-2016,2,February,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,5,86,58,144
+04-03-2014,4,March,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,5,2,5,15,10,25
+04-03-2014,4,March,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,26,2,5,77,52,129
+04-03-2016,4,March,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,7,2,5,21,14,35
+04-03-2016,4,March,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,27,2,5,80,54,134
+11-03-2014,11,March,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,9,2,5,27,18,45
+11-03-2016,11,March,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,10,2,5,30,20,50
+17-03-2014,17,March,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,15,2,5,44,30,74
+17-03-2014,17,March,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,4,2,5,12,8,20
+17-03-2014,17,March,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,15,2,5,44,30,74
+17-03-2014,17,March,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,15,2,5,44,30,74
+17-03-2016,17,March,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,13,2,5,38,26,64
+17-03-2016,17,March,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,2,2,5,6,4,10
+17-03-2016,17,March,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,17,2,5,50,34,84
+17-03-2016,17,March,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,12,2,5,35,24,59
+24-03-2014,24,March,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,17,2,5,50,34,84
+24-03-2014,24,March,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,15,2,5,44,30,74
+24-03-2016,24,March,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,18,2,5,53,36,89
+24-03-2016,24,March,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,13,2,5,38,26,64
+05-04-2014,5,April,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,2,2,5,6,4,10
+05-04-2014,5,April,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,15,2,5,44,30,74
+05-04-2016,5,April,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,4,2,5,12,8,20
+05-04-2016,5,April,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,17,2,5,50,34,84
+14-05-2014,14,May,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,17,2,5,50,34,84
+14-05-2016,14,May,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,14,2,5,41,28,69
+19-05-2014,19,May,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,4,2,5,12,8,20
+19-05-2014,19,May,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,26,2,5,77,52,129
+19-05-2014,19,May,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,12,2,5,35,24,59
+19-05-2014,19,May,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,16,2,5,47,32,79
+19-05-2014,19,May,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+19-05-2016,19,May,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+19-05-2016,19,May,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,24,2,5,71,48,119
+19-05-2016,19,May,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,10,2,5,30,20,50
+19-05-2016,19,May,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,13,2,5,38,26,64
+19-05-2016,19,May,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,23,2,5,68,46,114
+03-07-2014,3,July,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,9,2,5,27,18,45
+03-07-2014,3,July,2014,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,24,2,5,71,48,119
+03-07-2016,3,July,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,9,2,5,27,18,45
+03-07-2016,3,July,2016,35,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+04-09-2013,4,September,2013,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,19,2,5,56,38,94
+04-09-2013,4,September,2013,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,19,2,5,56,38,94
+04-09-2015,4,September,2015,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,21,2,5,62,42,104
+04-09-2015,4,September,2015,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,20,2,5,59,40,99
+07-10-2013,7,October,2013,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,20,2,5,59,40,99
+07-10-2015,7,October,2015,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,21,2,5,62,42,104
+25-10-2013,25,October,2013,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,11,2,5,32,22,54
+25-10-2013,25,October,2013,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,9,2,5,27,18,45
+25-10-2015,25,October,2015,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,10,2,5,30,20,50
+25-10-2015,25,October,2015,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,8,2,5,24,16,40
+28-01-2014,28,January,2014,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,28,2,5,83,56,139
+28-01-2014,28,January,2014,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,19,2,5,56,38,94
+28-01-2016,28,January,2016,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+28-01-2016,28,January,2016,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,16,2,5,47,32,79
+09-02-2014,9,February,2014,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,24,2,5,71,48,119
+09-02-2014,9,February,2014,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,22,2,5,65,44,109
+09-02-2016,9,February,2016,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,25,2,5,74,50,124
+09-02-2016,9,February,2016,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,20,2,5,59,40,99
+13-02-2014,13,February,2014,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,30,2,5,89,60,149
+13-02-2014,13,February,2014,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,2,2,5,6,4,10
+13-02-2016,13,February,2016,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,28,2,5,83,56,139
+13-02-2016,13,February,2016,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,1,2,5,3,2,5
+18-02-2014,18,February,2014,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,5,86,58,144
+18-02-2014,18,February,2014,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,13,2,5,38,26,64
+18-02-2016,18,February,2016,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,31,2,5,91,62,153
+18-02-2016,18,February,2016,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,11,2,5,32,22,54
+04-03-2014,4,March,2014,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,5,2,5,15,10,25
+04-03-2014,4,March,2014,37,Adults (35-64),M,Canada,British Columbia,Accessories,Bottles and Cages,Water Bottle - 30 oz.,6,2,5,18,12,30
