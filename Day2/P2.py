@@ -35,7 +35,7 @@ def printer(df, types):
     print("{" +
           f"'Mean': {fmt(mean)}, 'Median': {fmt(median)}, 'Mode': {fmt(mode)}, "
           f"'Variance': {fmt(var)}, 'Std Dev': {fmt(std)}, "
-          f"'Skewness': {fmt(skw)}, 'Kurtosis': {fmt(kurt)}"
+          f"'Skewness': {skw:.3f}, 'Kurtosis': {kurt:.3f}"
           + "}")
 
 printer(pop, 'pop')

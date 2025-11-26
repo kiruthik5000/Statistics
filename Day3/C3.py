@@ -1,3 +1,40 @@
+
+import numpy as np
+from scipy.stats import ttest_ind
+
+
+
+m_mean = float(input().strip())
+m_sd = float(input().strip())
+m_n = int(input().strip())
+f_mean = float(input().strip())
+f_sd = float(input().strip())
+f_n = int(input().strip())
+
+np.random.seed(42)
+
+m_data = np.random.normal(m_mean, m_sd, m_n)
+f_data = np.random.normal(f_mean, f_sd, f_n)
+
+t_val, p_val = ttest_ind(m_data, f_data, equal_var=True)
+
+print("Two-Sample T-Test Result (Male vs Female Fit Ratings)")
+print(f"T-statistic: {t_val:.4f}")
+print(f"P-value: {p_val:.4f}")
+if p_val < 0.05:
+    print("Reject the null hypothesis: Significant difference in fit ratings between male and female respondents.")
+else:
+    print("Fail to reject the null hypothesis: No significant difference in fit ratings between male and female respondents.")
+
+
+
+
+
+
+
+------------------------------------------ C3 - 2 ------------------------------------------
+
+
 import numpy as np
 from scipy import stats
 
