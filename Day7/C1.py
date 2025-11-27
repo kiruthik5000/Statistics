@@ -27,6 +27,7 @@ scaled_cleaned = scaled_cleaned.iloc[:-1]
 corr_matrix = scaled_cleaned.corr()
 
 temp_corr = corr_matrix['temperature']
+
 high_corr_features = temp_corr[abs(temp_corr) >= 0.7].index.tolist()
 
 print(f"Features highly correlated with temperature (|corr| >= 0.7): {high_corr_features}")
