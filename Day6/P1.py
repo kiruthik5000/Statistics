@@ -39,7 +39,9 @@ def preprocess(df):
     for c in contains:
         df = iqr(df, c)
     print("Outlier treatment done. DataFrame with capped outliers:")
+
     print(df[contains].head())
+    
     scaler = StandardScaler()
     df[contains] = scaler.fit_transform(df[contains])
     

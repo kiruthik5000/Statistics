@@ -6,8 +6,8 @@ import os, sys
 filename = input().strip()
 df = pd.read_csv(os.path.join(sys.path[0], filename))
 
-print("Salary classes:", np.sort(df['salary'].unique()))
-print("Department classes:", np.sort(df['Department'].unique()))
+print("Salary classes:", df['salary'].unique())
+print("Department classes:", df['Department'].unique())
 
 le_salary = LabelEncoder()
 le_dept = LabelEncoder()
@@ -29,7 +29,6 @@ features = ['satisfaction_level', 'last_evaluation', 'number_project',
 
 df_scaled = df.copy()
 df_scaled[features] = scaler.fit_transform(df[features])
-
 corr = df_scaled[features].corr()
 
 high_corr = corr.abs() >= 0.7
