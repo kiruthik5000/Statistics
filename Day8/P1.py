@@ -1,37 +1,27 @@
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import LabelEncoder, StandardScaler
 import os, sys
 
 filename = input().strip()
+
 df = pd.read_csv(os.path.join(sys.path[0], filename))
 
-print("Salary classes:", df['salary'].unique())
-print("Department classes:", df['Department'].unique())
+print("\n--- Dataset Info ---")
+print(df.info())
 
-le_salary = LabelEncoder()
-le_dept = LabelEncoder()
+print("\n--- First 5 Rows ---")
+print(df.head())
 
-df['salary_enc'] = le_salary.fit_transform(df['salary'])
-df['Department_enc'] = le_dept.fit_transform(df['Department'])
+df['left_c'] = df['left'].map({0: 'Retained', 1: 'Left'})
 
-df.info()
+categories = ['Retained', 'Left']
 
-print("\nMissing values per column:")
-print(df.isna().sum())
+avg_satisfaction = df.groupby('left_c')['satisfaction_level'].mean().reindex(categories)
 
-scaler = StandardScaler()
+print("\n--- Average Satisfaction Level by Retention ---")
+print(avg_satisfaction)
 
-features = ['satisfaction_level', 'last_evaluation', 'number_project',
-            'average_monthly_hours', 'time_spend_company',
-            'Work_accident', 'promotion_last_5years',
-            'salary_enc', 'Department_enc']
+avg_hours = df.groupby('left_c')['average_monthly_hours'].mean().reindex(categories)
 
-df_scaled = df.copy()
-df_scaled[features] = scaler.fit_transform(df[features])
-corr = df_scaled[features].corr()
-
-high_corr = corr.abs() >= 0.7
-
-print("\nHighly correlated features (cutoff >= 0.7):")
-print(high_corr)
+print("\n--- Average Monthly Hours by Retention ---")
+print(avg_hours)

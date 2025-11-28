@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
-from scipy.stats import chi2_contingency
 import os, sys
+from scipy.stats import chi2_contingency
 
 filename = input().strip()
 
@@ -19,9 +19,9 @@ try:
     contingency_table = pd.crosstab(df['Day'], df['Page_Loads_Bin'])
 
     chi2, p_value, dof, expected = chi2_contingency(contingency_table)
-
-    print("Null Hypothesis (H0): Page Loads are independent of the Day of the Week.")
-    print("Alternative Hypothesis (H1): Page Loads depend on the Day of the Week.\n")
+    
+    print("Null Hypothesis (H0): Page Loads are independent of Day of the Week.")
+    print("Alternative Hypothesis (H1): Page Loads depend on Day of the Week.\n")
 
     print("Contingency Table (Page Loads vs Day of the Week):\n")
     print(contingency_table)
